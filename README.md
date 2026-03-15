@@ -25,9 +25,9 @@ It wrote the code, ran away, and now the game is unplayable.
 
 ## 📝 Document Your Experience
 
-- [This is a guessing number game.] Describe the game's purpose.
-- [Game would not reset; hints were messed up; number of attempts shown was wrong.] Detail which bugs you found.
-- [Used AI to fix all bugs mentioned earlier.] Explain what fixes you applied.
+- [This is a guessing number game.]
+- [Game would not reset; hints were messed up; number of attempts shown was wrong.]
+- [Used AI to fix all bugs mentioned earlier.]
 
 ## 📸 Demo
 
