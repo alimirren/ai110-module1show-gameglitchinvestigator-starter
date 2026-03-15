@@ -8,7 +8,7 @@ Answer each question in 3 to 5 sentences. Be specific and honest about what actu
 - List at least two concrete bugs you noticed at the start  
   (for example: "the secret number kept changing" or "the hints were backwards").
 
----
+--- The submit button did not work no matter how many times i pressed it. The game would not refresh after winning. The hints were totally wrong, when the guess was lower the hint said to go higher.
 
 ## 2. How did you use AI as a teammate?
 
@@ -16,7 +16,7 @@ Answer each question in 3 to 5 sentences. Be specific and honest about what actu
 - Give one example of an AI suggestion that was correct (including what the AI suggested and how you verified the result).
 - Give one example of an AI suggestion that was incorrect or misleading (including what the AI suggested and how you verified the result).
 
----
+--- I used VS Code Copilot to debug glitches in the code. When playing, i found a bug where hints displayed were wrong. It was due to reverse logic in the code. I asked Copilot and it was able to fix the mistake by switching certain lines.
 
 ## 3. Debugging and testing your fixes
 
@@ -25,7 +25,7 @@ Answer each question in 3 to 5 sentences. Be specific and honest about what actu
   and what it showed you about your code.
 - Did AI help you design or understand any tests? How?
 
----
+--- To see if the bug was really fixed, I actually went to the app GUI to test the fix. It indeed worked, so I confirmed Copilot's changes. I tried doing a pytest, but I ran into error where my terminal couldn't process the command, so Copilot helped me add more needed imports and install .venv to run the pytest. It showed lots of errors that were needed to be fixed, then it showed multiple failed test that Copilot successfully fixed. Yes, AI helped me understand multiple errors in the code.
 
 ## 4. What did you learn about Streamlit and state?
 
