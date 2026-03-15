@@ -50,3 +50,4 @@ st.session_state.secret = random.randint(low, high)`
 I think that some strategy I should use for the next labs/projects is constantly checking the app. Whenever AI does not understand/fix the issue, you try to explain it like you're explaining it to a 5 year old. It really helped me solve some issues.
 Next time I will try to dive deeper into the code instead of jumping straight to AI. Yes, it can generate and write the code for us, but in the end we humans should be able to understand the code itself.
 This project helped me understand that AI is still underdeveloped and makes some logic mistakes that even a human would not make. This is why humans and AI need each other.
+---
