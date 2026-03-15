@@ -25,13 +25,13 @@ It wrote the code, ran away, and now the game is unplayable.
 
 ## 📝 Document Your Experience
 
-- [ ] Describe the game's purpose.
-- [ ] Detail which bugs you found.
-- [ ] Explain what fixes you applied.
+- [This is a guessing number game.] Describe the game's purpose.
+- [Game would not reset; hints were messed up; number of attempts shown was wrong.] Detail which bugs you found.
+- [Used AI to fix all bugs mentioned earlier.] Explain what fixes you applied.
 
 ## 📸 Demo
 
-- [ ] [Insert a screenshot of your fixed, winning game here]
+![Screenshot of the fixed, winning game](Screenshot 2026-03-15 at 10.42.21 AM.png)
 
 ## 🚀 Stretch Features
 
